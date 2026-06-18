@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 import unittest
 
-
+#Caso de prueba para numerosNaturales no fuera de rango o menores -273
 class casoDePrueba1(unittest.TestCase):
     def setUp(self):
         self.driver = webdriver.Chrome()
