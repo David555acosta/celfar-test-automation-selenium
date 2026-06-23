@@ -60,12 +60,40 @@ Se valida que la aplicación muestre el mensaje de error correspondiente.
 ## Estructura del proyecto
 
 ```
-/project-root
+celfar-test-automation/
 │
-├── celfar_test.py
-├── README.md
-├── test_cases.md
-└── evidencias/
+├── casos-de-prueba-codigo/
+│   ├── caso1.py
+│   ├── caso2.py
+│   └── caso3.py
+│
+├── capturas/
+│   ├── casoPrueba1/
+│   │   ├── pruebaA/
+│   │   │   ├── captura_1.png
+│   │   │   ├── captura_2.png
+│   │   │   └── captura_3.png
+│   │   │
+│   │   ├── pruebaB/
+│   │   │   ├── captura_1.png
+│   │   │   ├── captura_2.png
+│   │   │   └── captura_3.png
+│   │   │
+│   │   └── pruebaC/
+│   │       ├── captura_1.png
+│   │       ├── captura_2.png
+│   │       └── captura_3.png
+│   │
+│   ├── casoPrueba2/
+│   │   ├── captura_1.png
+│   │   └── captura_2.png
+|   |   └── captura_3.png
+│   │
+│   └── casoPrueba3/
+│       ├── captura_1.png
+│       └── captura_2.png
+│
+└── README.md
 ```
 
 ---
