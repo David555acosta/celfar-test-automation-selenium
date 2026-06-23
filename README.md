@@ -92,6 +92,7 @@ celfar-test-automation/
 │   └── casoPrueba3/
 │       ├── captura_1.png
 │       └── captura_2.png
+|       └── captura_3.png
 │
 └── README.md
 ```
